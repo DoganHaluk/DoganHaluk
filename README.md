@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoganHaluk
-- 👀 I’m interested in JAVA and JavaScript
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA
+- 👀 I’m interested in Java and JavaScript
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 You can reach me by my email ha_look@yahoo.com
 
 <!---
