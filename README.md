@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DoganHaluk
-- 🌱 I’m a junior Java developer
+- 🌱 I’m a junior backend developer who is specialized on Java and .NET
 - 📫 You can reach me by my email ha_look@yahoo.com
 
 <!---
